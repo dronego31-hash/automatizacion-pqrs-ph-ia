@@ -32,7 +32,7 @@ Los detalles de la arquitectura funcional y técnica se documentan en `docs/arqu
 
 ## Rol y responsabilidades
 
-Este proyecto está diseñado y liderado por:
+Este proyecto está diseñado y liderado por: Diego Escobar
 
 - Definición del caso de uso y alcance del piloto junto con directiva y administradores.
 - Diseño del flujo de extremo a extremo: captura, clasificación, enrutamiento y respuesta asistida.
