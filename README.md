@@ -66,3 +66,23 @@ Este proyecto está pensado como base para:
 - Explorar diferentes modelos de IA para clasificación y generación de respuestas.
 
 Cualquier sugerencia o mejora de arquitectura, flujo o métricas es bienvenida.
+
+
+## Documentacion del Proyecto
+
+El repositorio incluye documentacion completa:
+
+### Arquitectura
+- **docs/arquitectura.md**: Componentes, flujo de datos, tecnologias
+- **docs/flujo_funcional.md**: Flujo end-to-end, 9 etapas del sistema
+
+### Datos y Config
+- **data/diccionario_categorias.json**: Categorias, tipos, prioridades, reglas
+- **data/ejemplos_mensajes.csv**: 10 casos reales para testing
+- **config/settings.json**: SLAs, KPIs, integraciones
+- **.env.example**: Variables de ambiente
+
+### Ejemplos
+- **examples/prompt_clasificacion.md**: Prompts para IA
+- **examples/plantillas_respuesta.md**: Plantillas por categoria
+- **requirements.txt**: Dependencias Python (OpenAI, n8n, pandas, etc)
