@@ -1,0 +1,11 @@
+id,fecha,canal,remitente,asunto,cuerpo_mensaje,tipo_esperado,categoria_esperada,prioridad_esperada,estado
+MSG001,2025-12-15,EMAIL,apto_302@example.com,Fuga de agua en baño,Tengo una fuga importante en la llave del baño,peticion,mantenimiento,alta,ASIGNADO
+MSG002,2025-12-14,FORMULARIO_WEB,maria.lopez@example.com,Ruido nocturno,Llevo tres noches sin dormir por el ruido,queja,convivencia,media,EN_GESTION
+MSG003,2025-12-14,TEAMS,admin@example.com,Solicitud de reforma,Quiero reformar mi cocina,solicitud_informacion,adecuacion_inmueble,baja,ASIGNADO
+MSG004,2025-12-13,EMAIL,cartera@example.com,Residente moroso,Debe 3 meses de cuota,reclamo,cartera,alta,EN_GESTION
+MSG005,2025-12-12,FORMULARIO_WEB,verde.building@example.com,Plagas detectadas,Se han visto cucarachas,queja,sanitario,media,ASIGNADO
+MSG006,2025-12-11,EMAIL,security@example.com,EMERGENCIA - ROBO,Personas sospechosas detectadas,urgencia,seguridad,critica,EN_GESTION
+MSG007,2025-12-10,TEAMS,carlos.admin@example.com,Felicitación,Excelente trabajo en la poda,felicitacion,mantenimiento,baja,CERRADO
+MSG008,2025-12-09,FORMULARIO_WEB,apt_1501@example.com,Ascensor dañado,El ascensor no funciona,queja,servicios,alta,EN_GESTION
+MSG009,2025-12-08,EMAIL,junta.directiva@example.com,Copia de acta,Necesito copia del acta,solicitud_informacion,administrativo,baja,ASIGNADO
+MSG010,2025-12-07,PRESENCIAL,porteria_log,Mascotas sin registro,Residente tiene 2 perros,reclamo,convivencia,media,ASIGNADO
